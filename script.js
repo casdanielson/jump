@@ -1,5 +1,6 @@
-var character = document.getElementByID("character");
-var block = document.getElementByID("block");
+var character = document.getElementById("character");
+var block = document.getElementById("block");
+
 function jump(){
 	character.classList.add("animate");
 	setTimeout(function(){
