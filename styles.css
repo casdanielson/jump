@@ -15,6 +15,7 @@
 	background-color: blue;
 	position: relative;
 	top: 150px;
+	animation: jump ls infinite;
 }
 
 @keyframes jump{
