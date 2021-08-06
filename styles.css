@@ -35,7 +35,7 @@
 	animation: block 500ms infinite linear;
 }
 
-@keyframes block {
-	0% {left:480px;}
-	100% {left:-40px;}
+@keyframes block{
+	0%{left:480px;}
+	100%{left:-40px;}
 }
